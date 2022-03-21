@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @natads99
-- 👀 I’m interested in Data Science, Programming & Making concept a new application to make your business easier
+- 👀 I’m interested in Data Science, Programming & Making concept a new application to make your business easier specially an industrial automation or electrical and electronic automation systems
 - 🌱 I’m currently learning Phyton, SQL and all about data science
 - 💞️ I’m looking to collaborate on learn Data Science
 - 📫 How to reach me, contact nata.design99@gmail.com
