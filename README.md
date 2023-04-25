@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natads99&label=Profile%20views&color=0e75b6&style=flat" alt="natads99" /> </p>
 
-- 🔭 I’m currently working on **Property Management**
+- 🔭 I’m currently working on **something interesting and cool**
 - 🌱 I’m currently learning **frameworks about microcontroller and automation; such as PLC and DCS, of course with C++ Programming**
 - 👯 I’m looking to collaborate on **learning abour Arduino and Microcontroller**
 - 👨‍💻 All of my projects are available at [https://github.com/natads99](https://github.com/natads99)
