@@ -1,10 +1,23 @@
-- 👋 Hi, I’m Rifaldy
-- 👀 I’m interested in Engineering, Programming & Making concept to make your business and life easier specially an industrial automation or electrical and electronic automation systems
-- 🌱 I’m currently learning Microcontroller and C++ Programming
-- 💞️ I’m looking to collaborate on learn Arduino and AVR
-- 📫 How to reach me, contact nata.design99@gmail.com
 
-<!---
-natads99/natads99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Hi 👋, I'm Rifaldy</h1>
+<h3 align="center">A passionate Electrical Power Engineer from Indonesia</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=natads99&label=Profile%20views&color=0e75b6&style=flat" alt="natads99" /> </p>
+
+- 🔭 I’m currently working on **Property Management**
+
+- 🌱 I’m currently learning **frameworks about microcontroller and automation; such as PLC and DCS, of course with C++ Programming**
+
+- 👯 I’m looking to collaborate on **learning abour Arduino and Microcontroller**
+
+- 👨‍💻 All of my projects are available at [https://github.com/natads99](https://github.com/natads99)
+
+- 📝 I regularly write articles on [https://www.linkedin.com/in/rifaldynata/](https://www.linkedin.com/in/rifaldynata/)
+
+- 💬 Ask me about **electrical automation**
+
+- 📫 How to reach me **nata.ds99@gmail.com**
+
+- 📄 Know about my experiences visit my LinkedIn [https://www.linkedin.com/in/rifaldynata/](https://www.linkedin.com/in/rifaldynata/)
+
+- ⚡ Fun fact **I think I'am Handsome heheh**
