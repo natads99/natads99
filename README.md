@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @natads99
-- 👀 I’m interested in Data Science, Programming & Making concept a new application to make your business easier specially an industrial automation or electrical and electronic automation systems
-- 🌱 I’m currently learning Phyton, SQL and all about data science
-- 💞️ I’m looking to collaborate on learn Data Science
+- 👋 Hi, I’m Rifaldy
+- 👀 I’m interested in Engineering, Programming & Making concept to make your business and life easier specially an industrial automation or electrical and electronic automation systems
+- 🌱 I’m currently learning Microcontroller and C++ Programming
+- 💞️ I’m looking to collaborate on learn Arduino and AVR
 - 📫 How to reach me, contact nata.design99@gmail.com
 
 <!---
